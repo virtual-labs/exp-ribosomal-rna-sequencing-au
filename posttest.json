@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.A technique used to detect radioactive chemicals on X-ray film is:",
+      "answers": {
+        "a": "Electro blotting",
+        "b": "Autoradiography",
+        "c": "Electrophoresis",
+        "d": "PCR"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The technique that utilizes probes to detect specific DNA sequence:",
+      "answers": {
+        "a": "Northern blot",
+        "b": "Western blot",
+        "c": "Southern blot",
+        "d": "Eastern blot"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+
+    {
+      "question": "3. The “S” in 16 S rRNA represents:",
+      "answers": {
+        "a": "Rate of sublimation in seconds",
+        "b": "Rate of sedimentation in Svedberg units",
+        "c": "Rate of sedimentation per second",
+        "d": "Rate of migration in seconds"
+      },
+          
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+      {
+        "question": "4. Lysozyme is important in DNA extraction because:",
+        "answers": {
+          "a": "It degrades the cell wall",
+          "b": "It solubilizes the DNA",
+          "c": "It maintains the pH of the buffer",
+          "d": "All the above"
+        },
+
+            
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }   
+     
+    
+  ]
+}
